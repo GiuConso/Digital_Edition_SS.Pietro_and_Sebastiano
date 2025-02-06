@@ -1,3 +1,6 @@
+<b>XSLT that transforms the XML-TEI file encoded with the Bookkeeping Ontology into a stable PDF, highlighting BK tags and some information from the header.</b>
+
+
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
     xmlns:fo="http://www.w3.org/1999/XSL/Format">
