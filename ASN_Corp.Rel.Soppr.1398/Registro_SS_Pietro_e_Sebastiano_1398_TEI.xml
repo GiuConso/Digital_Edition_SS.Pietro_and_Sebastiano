@@ -1312,30 +1312,6 @@
 			<orgName key="masseria di Centora">Masseria in Centora</orgName>
 		</org>
 		</listOrg>
-	<!-- <list ana="depcha:index">
-		<note>The data used to create this list were extracted from the Bachelor's thesis work of Desiree Di Donato
-		(Title: "I registri del monastero femminile domenicano dei SS. Pietro e Sebastiano di Napoli del XV secolo. Il digital turn nell’approccio paleografico 
-		ai documenti storici a carattere amministrativo e contabile attraverso il software FRAT." Tutor: Prof. Antonella Ambrosio) and were digitally processed 
-		and encoded by Giuseppe Consolo.</note>
-	<head>Hands</head>
-		<item xml:id="A">f.1r; f.4r; f.5v</item>
-		<item xml:id="B">f.1v; f.2r; f.2v; f.3r; f.3v; f.16r; f.16v; f.17r; f.17v; f.18r; f.18v; f.21r; f.44r; f.44v; f.60r; f.60v; f.76r; f.76v; f.92r; f.104r; f.104v; f.120r; f.120v; f.121r; f.151r; f.159r; f.167r; f.167v; f.168r; f.183r</item>
-		<item xml:id="C">f.3v; f.19r; f.77r; f.201v</item>
-		<item xml:id="Cola Iacono Procuratore">f.7v; f.8r; f.8v; f.9r; f.34v; f.35r; f.35v; f.36r; f.36v; f.37r; f.37v; f.38r; f.38v; f.39r; f. 47v; f. 48r-v; f. 49r; f. 64v; f. 65r-v; f. 81r; f. 81v; f. 84v; f. 85r-v; f. 86r-v; f. 87r-v; f. 93r-v; f. 110r-v; f. 111r-v; f. 112r-v; f. 113r; f. 124v; f. 125r-v; f. 126r; f. 134r; f. 141v; f. 142r-v; f. 143r-v; f. 148r-v; f. 160r; f. 171v; f. 179r-v; f. 185r-v; f. 186r; f. 190v; f. 191r; f. 191v; f. 194v; f. 195r; f. 202r-v; f. 203r-v.</item>
-		<item xml:id="D">f. 3v; f. 19r; f. 19v; f. 20v; f. 45v; f. 46r; f. 61r-v; f. 77r; f. 77v; f. 105r; f. 105v; f. 106r; f. 121r-v; f. 137r-v; f. 138r; f. 151v; f. 183v.</item>
-		<item xml:id="E">f. 4r; f. 21r-v; f. 22r-v; f. 46r; f. 78r-v; f. 106v; f. 107r; f. 122r; f. 152r; f. 159v.</item>
-		<item xml:id="Cola Zenzale Procuratore">f. 4r; f. 4v; f. 22v; f. 23r; f. 23v; f. 24r; f. 62r; f. 79r; f. 80r; f. 81r; f. 122r; f. 139v; f. 147r; f. 168v; f. 169r; f. 183v; f. 201v.</item>
-		<item xml:id="Frate Petrino Priore">f. 4v; f. 23r; f. 23v; f. 46r; f. 62r; f. 79r; f. 79v; f. 80r; f. 107r; f. 122v; f. 139v; f. 147r; f. 159v; f. 168v; f. 184r; f. 189r.</item>
-		<item xml:id="F">f. 5r; f. 24v; f. 107r; f. 168v.</item>
-		<item xml:id="Ioannes Amberto Procuratore del Monastero">f. 5r; f. 7r; f. 31r-v; f. 32r; f. 34r; f. 46v; f. 63r-v; f. 64r; f. 82r-v; f. 84r; f. 92v; f. 108r-v; f. 109; f. 123r-v; f. 139v; f. 140v; f. 169r; f. 184r; f. 184v; f. 189v; f. 190r.</item>
-		<item xml:id="Lucido de Larino">f. 5v; f. 6r; f. 32v; f. 33v; f. 47r; f. 83v; f. 107v; f. 109v; f. 140r; f. 141r; f. 147v; f. 153r; f. 159v; f. 170r-v; f. 171r; f. 184v; f. 191v; f. 195v; f. 201r.</item>
-		<item xml:id="G">f. 7v; f. 172r; f. 172v; f. 173r-v; f. 174v.</item>
-		<item xml:id="H">f. 19r; f. 45v; f. 61r; f. 105r.</item>
-		<item xml:id="Bonohanne">f. 19r; f. 19v; f. 20r; f. 20v; f. 78v.</item>
-		<item xml:id="I">f. 24v; f. 25r-v; f. 26r; f. 27r-v; f. 28r-v; f. 29r-v; f. 30r-v; f. 33r; f. 46v; f. 62v; f. 63r; f. 80r; f. 80v; f. 81r; f. 83r; f. 107r; f. 122v; f. 123r; f. 139r; f. 184r; f. 189r.</item>
-		<item xml:id="L">f. 85v;f. 173v;f. 174r.</item>
-		<item xml:id="M">f. 153v</item>
-		</list> -->
 	</standOff>
 	<facsimile>
 		<surface xml:id='facs_3' ulx='0' uly='0' lrx='1854' lry='3000'>
