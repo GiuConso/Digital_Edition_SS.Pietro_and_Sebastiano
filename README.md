@@ -25,9 +25,6 @@ This repository represents the **stand-alone scholarly publication** of the digi
 - `/documentation/editorial_criteria.md`  
   Editorial and encoding criteria adopted for the preparation of this digital scholarly edition.
 
-- `/output_pdf/`  
-  Stable PDF output generated from the TEI source.
-
 ---
 
 ## Editorial Methodology
