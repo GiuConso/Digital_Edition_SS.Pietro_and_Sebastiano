@@ -6,7 +6,7 @@ Project website: https://www.coop-unina.org/ss-pietro-e-sebastiano-monastery-pro
 
 ---
 
-This repository contains the **XML/TEI source file** of the digital scholarly edition of the *Quaternus* 1398 and the **XSLT stylesheet** used to generate a stable PDF representation of the text.
+This repository contains the **XML/TEI source file** of the digital scholarly edition of the *Quaternus* 1398 and the **XSLT stylesheet** used to generate a a printable representation of the text.
 
 The edition was developed by **Giuseppe Consolo** within the framework of his PhD research (*L'edizione critica digitale della documentazione del monastero dei SS. Pietro e Sebastiano di Napoli nel medioevo*, University of Naples Federico II) and as part of the SS. Pietro e Sebastiano Monastery Project.
 
@@ -38,7 +38,7 @@ Full documentation of the editorial criteria is available here:
 
 ## How to Cite
 
-A DOI is assigned to each stable release of this repository via **:contentReference[oaicite:0]{index=0}**.  
+A DOI is assigned to each stable release of this repository via Zenodo.  
 Please cite the edition using the DOI corresponding to the version you consulted.
 
 Example citation format:
