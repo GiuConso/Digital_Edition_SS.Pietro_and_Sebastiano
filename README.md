@@ -1,10 +1,63 @@
-# Digital Edition SS.Pietro and Sebastiano
-![Immagine](https://github.com/user-attachments/assets/78e475c6-05cb-4414-9165-aa84e7332898)
-<b><i>SS. Pietro and Sebastiano Monastery Project</b></i> 
-![LogoDSWLab](https://github.com/user-attachments/assets/7a480baa-1879-495a-8846-0e3179577042)
+# Digital Edition of the *Quaternus* 1398  
 
-(https://www.coop-unina.org/ss-pietro-e-sebastiano-monastery-project/)
+![Immagine](https://github.com/user-attachments/assets/78e475c6-05cb-4414-9165-aa84e7332898) SS. Pietro e Sebastiano Monastery Project ![LogoDSWLab](https://github.com/user-attachments/assets/7a480baa-1879-495a-8846-0e3179577042)
 
-This repository contains the XML/TEI files of the digital edition published in DEPCHA and the XSLT transformation file used to convert the edition from XML/TEI to PDF.
+Project website: https://www.coop-unina.org/ss-pietro-e-sebastiano-monastery-project/
 
-The work was carried out as part of Giuseppe Consolo's PhD thesis, <i>L'edizione critica digitale della documentazione del monastero dei SS. Pietro e Sebastiano di Napoli nel medioevo</i>, (tutor: prof. Antonella Ambrosio)  at the University of Naples Federico II (PhD programm in Scienze Storiche, Archeologiche and Storico-Artistiche) and within the activities of the SS. Pietro e Sebastiano Monastery Project.
+---
+
+This repository contains the **XML/TEI source file** of the digital scholarly edition of the *Quaternus* 1398 and the **XSLT stylesheet** used to generate a stable PDF representation of the text.
+
+The edition was developed by **Giuseppe Consolo** within the framework of his PhD research (*L'edizione critica digitale della documentazione del monastero dei SS. Pietro e Sebastiano di Napoli nel medioevo*, University of Naples Federico II) and as part of the SS. Pietro e Sebastiano Monastery Project.
+
+This repository represents the **stand-alone scholarly publication** of the digital edition.
+
+---
+
+## Contents
+
+- `Registro_SS_Pietro_e_Sebastiano_1398_TEI.xml`  
+  TEI-encoded transcription of the *Quaternus* 1398.
+
+- `TEI TO PDF.xsl`  
+  XSLT stylesheet used to transform the TEI file into a printable PDF.
+
+- `/documentation/editorial_criteria.md`  
+  Editorial and encoding criteria adopted for the preparation of this digital scholarly edition.
+
+- `/output_pdf/`  
+  Stable PDF output generated from the TEI source.
+
+---
+
+## Editorial Methodology
+
+The editorial criteria are grounded in the methodological tradition of diplomatic editing and have been adapted by the editor to the specific characteristics of late medieval accounting books and to the requirements of their digital representation in a TEI-encoded environment.
+
+Full documentation of the editorial criteria is available here:  
+📄 **[Editorial Criteria](documentation/editorial_criteria.md)**
+
+---
+
+## How to Cite
+
+A DOI is assigned to each stable release of this repository via **:contentReference[oaicite:0]{index=0}**.  
+Please cite the edition using the DOI corresponding to the version you consulted.
+
+Example citation format:
+
+> Consolo, Giuseppe. *Digital Scholarly Edition of the Quaternus 1398*. Version X.X.X. Zenodo. DOI: XXXXX
+
+---
+
+## License
+
+Unless otherwise specified, the textual and editorial content of this repository is released under a **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+---
+
+## Author
+
+**Giuseppe Consolo**  
+University of Naples Federico II  
+University of Graz
