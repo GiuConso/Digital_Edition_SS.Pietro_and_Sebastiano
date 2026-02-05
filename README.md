@@ -43,19 +43,21 @@ Please cite the edition using the DOI corresponding to the version you consulted
 
 Example citation format:
 
-> Giuseppe Consolo. (2026). Digital Edition of the Quaternus 1398 (v1.0.0), Zenodo. https://doi.org/10.5281/zenodo.18497528
+> Consolo, Giuseppe (2026). *Digital Edition of the Quaternus 1398* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18497528
 
-@dataset{giuseppe_consolo_2026_18497528,
-  author       = {Giuseppe Consolo},
+### BibTeX
+```bibtex
+@dataset{consolo_quaternus1398_2026,
+  author       = {Consolo, Giuseppe},
   title        = {Digital Edition of the Quaternus 1398},
+  year         = {2026},
   month        = feb,
-  year         = 2026,
   publisher    = {Zenodo},
   version      = {v1.0.0},
   doi          = {10.5281/zenodo.18497528},
-  url          = {https://doi.org/10.5281/zenodo.18497528},
+  url          = {https://doi.org/10.5281/zenodo.18497528}
 }
-
+```
 ---
 
 ## License
