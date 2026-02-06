@@ -40,7 +40,7 @@ Capital letters are used only in the following cases:
 - *Sanctus* and *Beatus* (and variants) only when referring to institutions or places  
 - Liturgical feasts, with only one capitalised word  
 
-Terms that might resemble surnames but indicate professions or status are written in lowercase (e.g. *offerto, mandese, fonaro, tresauriere*).
+Terms that might resemble surnames but indicate professions or status are written in lowercase (e.g. *offerto, mandese, fornaro, tresauriere*).
 
 ---
 
