@@ -45,20 +45,20 @@ Example citation format:
 
 > Consolo, Giuseppe, Ambrosio, Antonella (2026). *Digital Edition of the Quaternus 1398* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18497528
 
-### BibTeX
+### 
+BibTeX 
+```
 @dataset{giuseppe_consolo_2026_18497528,
-  author       = {Giuseppe Consolo and
-                  Ambrosio, Antonella},
-  title        = {Digital Edition of the Quaternus 1398},
-  month        = feb,
-  year         = 2026,
-  publisher    = {Zenodo},
-  version      = {v1.0.0},
-  doi          = {10.5281/zenodo.18497528},
-  url          = {https://doi.org/10.5281/zenodo.18497528},
-}```
----
-
+  author    = {Consolo, Giuseppe and Ambrosio, Antonella},
+  title     = {Digital Edition of the Quaternus 1398},
+  month     = feb,
+  year      = 2026,
+  publisher = {Zenodo},
+  version   = {v1.0.0},
+  doi       = {10.5281/zenodo.18497528},
+  url       = {https://doi.org/10.5281/zenodo.18497528}
+}
+```
 ## License
 
 Unless otherwise specified, the textual and editorial content of this repository is released under a **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
